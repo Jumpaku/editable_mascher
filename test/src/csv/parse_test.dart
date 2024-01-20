@@ -3,7 +3,7 @@ import 'package:editable_mascher/src/csv/parse_exception.dart';
 import 'package:editable_mascher/src/csv/parse.dart';
 import 'package:editable_mascher/src/csv/result.dart';
 import 'package:editable_mascher/src/csv/tokenize.dart';
-import 'package:test/test.dart';
+import 'package:flutter_test/flutter_test.dart';
 
 typedef _Testcase = ({
   List<Token> input,

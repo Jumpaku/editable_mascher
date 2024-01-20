@@ -1,5 +1,5 @@
 import 'package:editable_mascher/src/csv/encoder.dart';
-import 'package:test/test.dart';
+import 'package:flutter_test/flutter_test.dart';
 
 typedef _Testcase = ({
   List<List<String>> input,

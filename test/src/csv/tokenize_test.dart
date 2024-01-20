@@ -1,6 +1,6 @@
 import 'package:characters/characters.dart';
 import 'package:editable_mascher/src/csv/tokenize.dart';
-import 'package:test/test.dart';
+import 'package:flutter_test/flutter_test.dart';
 
 typedef _Testcase = ({String input, List<Token> expected});
 
