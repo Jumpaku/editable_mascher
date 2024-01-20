@@ -1,0 +1,6 @@
+{
+  "appTitle": "editable_mascher",
+  "@appTitle": {
+    "description": "The title of the application"
+  }
+}
